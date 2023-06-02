@@ -1,0 +1,2 @@
+greeting KEY_SEP Hello World! [default, en]
+leav ing KEY_SEP Goodbye! [default, en]
